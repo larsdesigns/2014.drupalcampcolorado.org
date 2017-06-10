@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2014drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Commerce</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/9</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Securing Customer Credit Card Data</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/securing-customer-credit-card-data</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Acquia Room (Class 103)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drupal Commerce, Ubercart, Recurly: downloading and installing one of these community supported modules makes it easy to add a shopping cart to any Drupal site (large or small) and start processing credit card transactions. Unfortunately, insufficient security measures can make it relatively easy to steal this credit card data, which opens the door to significant financial liabilities and PR challenges for the site owner.&lt;/p&gt;
+&lt;p&gt;The appropriate way to secure a Drupal eCommerce site is to comply with the PCI-DSS (Payment Card Industry Data Security Standard, aka &quot;PCI Compliance&quot;). While not necessarily easy to achieve and maintain, it&#039;s a mandatory set of requirements created by the credit card industry for all merchants handling credit card transactions.&lt;/p&gt;
+&lt;p&gt;This presentation will review the various components of the standard as they pertain to Drupal as well as provide practical advice on how to best reduce ones risk when processing credit cards.&lt;/p&gt;
+&lt;p&gt;For more background on PCI compliance for Drupal, please visit &lt;a href=&quot;http://drupalpcicompliance.org/&quot;&gt;DrupalPCICompliance.org&lt;/a&gt; and download the free, &lt;a href=&quot;http://drupalpcicompliance.org/sponsors/&quot;&gt;community sponsored&lt;/a&gt; white paper.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Commerce&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 29 Jun 2014 20:49:22 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">54 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/securing-customer-credit-card-data#comments</comments>
+</item>
+</channel>
+</rss>

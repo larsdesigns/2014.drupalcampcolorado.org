@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2014drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - DevOps</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/10</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>ChatOps Makes Awesome Teams</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/chatops-makes-awesome-teams</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Culture is the most important ingredient in the DevOps movement, and we believe that ChatOps is the best way to build an awesome culture. Making your operations tools work with your chat room enables open communication and provides wonderful learning opportunities for all.&lt;/p&gt;
+&lt;p&gt;We will review practical ways to chat-enable your IT operations, including deployment, monitoring, log analysis, automation, on-call rotations, and real-time troubleshooting. While there are plenty of commercial solutions available in this space, we will focus on Drupal-friendly, open-source approaches.&lt;/p&gt;
+&lt;p&gt;This session will include technical tips and tricks for ChatOps tooling and automation, but will also include some high-level ideas about (and lessons learned from) the softer aspects of an open team chat room.  We will share our experiences with privacy issues, information overload, incident handling, and conducting chat-based blameless postmortems.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Attendees will leave this talk with a clear approach to improving their DevOps culture.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 08 Jul 2014 15:54:46 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">101 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/chatops-makes-awesome-teams#comments</comments>
+</item>
+<item>
+ <title>DevOps 101 - Culture and Tools</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/devops-101-culture-and-tools</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Working together as a collaborative team can produce better results, and break down barriers and finger pointing.  But what does that really mean, and how do you make that happen in practice?  &lt;/p&gt;
+&lt;p&gt;DevOps is the grand unification of philosophy and tools around how to manage Development (designers, themers, programmers, application analysts, application owners, project managers) and IT Operations  (system admins, network admins, security, data center, storage, database admin) in a tightly-integrated way.  This session will provide a fun-filled introduction to common aspects of DevOps culture and technology, complete with real-world examples of how it works and steps other organizations have taken to adopt DevOps methodology.&lt;/p&gt;
+&lt;p&gt;Specifically, we&amp;#039;ll talk about:&lt;/p&gt;
+&lt;p&gt;  + How DevOps is different from traditional methodologies&lt;br /&gt;
+  + What do commonly used DevOps tools like Puppet, Chef, Ansible, Salt, Jenkins, Git, Graphite, Icinga, and chat provide and how do they work together&lt;br /&gt;
+  + How DevOps fits in with a Drupal environment, including approaches to multi-environment promotion and operations&lt;br /&gt;
+  + The culture of DevOps.  How to encourage cross-functional teamwork and avoid common cultural pitfalls&lt;br /&gt;
+  + How to get a DevOps movement started in your organization&lt;/p&gt;
+&lt;p&gt;Join us for this entertaining and practical look into the DevOps world!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 03 Jul 2014 13:31:00 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">99 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/devops-101-culture-and-tools#comments</comments>
+</item>
+<item>
+ <title>What is happening?!? Using Logstash to make sense of your environment.</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/what-happening-using-logstash-make-sense-your-environment</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Logs and statistics are key to helping us understand all of the ins and outs of our complex environments.  Tailing through logs is a great way to fall asleep, but far from an effective way to determine the state of a given system.  Logstash is a spectacular open source tool that in conjunction with a vast array of plug-ins, can be used to help you make sense of your environment. It enables you to extract the relevant data from your logs so that you can make sense of them. Based on this information, you can find performance bottlenecks, errors etc...all of which can be use to improve the quality and speed of a Drupal application.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 02 Jul 2014 22:28:38 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">98 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/what-happening-using-logstash-make-sense-your-environment#comments</comments>
+</item>
+<item>
+ <title>Integration Testing with KitchenCI &amp; Multiple Provisioners</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/integration-testing-kitchenci-multiple-provisioners</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Infrastructure as code is a staple of the DevOps movement. Often times, this leads to customized solutions that require additional development effort to manage. Testing code driven infrastructure has been difficult across organizations but there are tools that can help. In this session we will walk through concrete examples that illustrate how to test infrastructure using Rspec, Serverspec and KitchenCI. We will illustrate how this testing can tie directly into domain specific meta-data unique to your systems.&lt;/p&gt;
+&lt;p&gt;We will cover testing infrastructure in a way that is not dependent on your choice of provisioner. Utilizing these skills you can increase your effectiveness by focusing on localized integration testing up to remote node testing. Additionally, the separation of your tests from provisioning code gives you the opportunity to focus on describing the functionality of your systems. This paves the way to allow integration with multiple technologies (puppet, chef, ansible, salt, bash, smoke signals translated to binary) as long as they ultimately achieve the definition of the system.&lt;/p&gt;
+&lt;p&gt;We will use a Drupal 7 Puppet and Chef provisioned environment to work against.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 02 Jul 2014 15:35:21 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">96 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/integration-testing-kitchenci-multiple-provisioners#comments</comments>
+</item>
+<item>
+ <title>Git-Flow &amp; disposable testing sites</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/git-flow-disposable-testing-sites</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;This session will demonstrate how easily you can create Drupal 7 &amp;amp; 8 testing sites from any git-flow branch... even feature branches. &lt;/p&gt;
+&lt;p&gt;This is particularly useful for testing where you need to create a site for each feature branch, see if your fixes are working, share/show the features working to your clients, and then merge your changes into Development branch.&lt;/p&gt;
+&lt;p&gt;We&#039;ll also demonstrate how these sites can be automatically updated when particular git-flow branches are updated.&lt;/p&gt;
+&lt;p&gt;This session will assume that you know git-flow and you&#039;re working with multiple developers.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 16:13:40 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">87 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/git-flow-disposable-testing-sites#comments</comments>
+</item>
+<item>
+ <title>Building A Scalable Private VMware Based Drupal Cloud</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/building-scalable-private-vmware-based-drupal-cloud</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;In 2013, University of Colorado Boulder Housing &amp;amp; Dining Services deployed a new virtual cluster built upon Apache, &lt;a href=&quot;http://www.gluster.org/&quot;&gt;GlusterFS&lt;/a&gt;, &lt;a href=&quot;http://www.continuent.com/&quot;&gt;Continuent Tungsten&lt;/a&gt;, and &lt;a href=&quot;https://f5.com/&quot;&gt;F5 LTM&lt;/a&gt;. Deploying a private cloud can be a complex process, but we hope our experience will help simply your deployment. This presentation is primarily targeted to groups already using VMware vCenter on a local environment or hosted service such as Rackspace managed virtualization.&lt;/p&gt;
+&lt;p&gt;During the presentation we will discuss:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Implementation considerations &amp;amp; strategies&lt;/li&gt;
+&lt;li&gt;Performance optimization&lt;/li&gt;
+&lt;li&gt;Problems encountered during deployment (and ways to avoid them)&lt;/li&gt;
+&lt;li&gt;VMware backup configuration considerations&lt;/li&gt;
+&lt;li&gt;F5 LTM configuration and iRules (we&#039;ll post the source) with SNI support&lt;/li&gt;
+&lt;li&gt;Collaboration needed between VMware systems administrators and Drupal cluster devops&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 14:53:14 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">81 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/building-scalable-private-vmware-based-drupal-cloud#comments</comments>
+</item>
+<item>
+ <title>&quot;Roll your own&quot; AWS cluster</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/roll-your-own-aws-cluster</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Roll your own Drupal 7 &amp;amp; 8 clusters on AWS.&lt;/p&gt;
+&lt;p&gt;Save thousands of dollars on hosting by running your own clusters on the same infrastructure used by Pantheon, Acquia and RightScale.&lt;/p&gt;
+&lt;p&gt;Learn how to deploy your own Drupal 7 &amp;amp; 8 sites to high-performance, multi-server, scalable, fault-tolerant clusters on AWS.  We&#039;ll demonstrate how the cluster automatically grows and shrinks based on site load.   &lt;/p&gt;
+&lt;p&gt;We&#039;ll see how easily you can fine-tune your clusters for your specific needs using AWS tools.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Jun 2014 23:26:24 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">72 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/roll-your-own-aws-cluster#comments</comments>
+</item>
+<item>
+ <title>Portable development environments</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/portable-development-environments</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;See how you can do all this within 30 minutes:&lt;br /&gt;
+1) create Drupal 7 &amp;amp; 8 dev environments on your computer&lt;br /&gt;
+2) work online or offline on your dev environments&lt;br /&gt;
+3) backup snapshots on the cloud with one click&lt;br /&gt;
+4) recreate/restore sites on other computers&lt;br /&gt;
+5) publish the site(s) on any hosting company to share with others&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Jun 2014 22:55:08 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">69 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/portable-development-environments#comments</comments>
+</item>
+<item>
+ <title>Jenkins 101: A Drupal Perspective</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/jenkins-101-drupal-perspective</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Jenkins is a simple butler, performing tasks as dictated by you. However, when used with Chef, Drush, and other technologies, Jenkins becomes an important component of improved processes, reduced labor, and improved troubleshooting/logging abilities. My organization (NewMedia) has realized the benefits of the methods that will be discussed in this session and hope to share those benefits with the community, sparking a conversation on how to further improve and implement similar solutions.&lt;/p&gt;
+&lt;p&gt;“It is time to improve and simplify.”&lt;/p&gt;
+&lt;p&gt;The above phrase runs through my head every time I see a developer, site builder, or content writer pull out a list of tasks required to complete the same repetitive procedure they completed last week and someone else completed a week before, or when a server configuration is needed for a web application that is hosted across numerous machines, or when deploying new application code to multiple servers.&lt;/p&gt;
+&lt;p&gt;It is imperative that we rethink time-consuming, error-prone procedures and improve our processes. In doing so, we cut down the human-error element of a process and enable concentrate on the goals, messages, and products we are delivering rather than the complex procedures required to deliver them. The efforts in the DevOps arena are impressive and we will continue to see more methods to improve and simplify everything we do.&lt;/p&gt;
+&lt;p&gt;This session will introduce Jenkins from a Drupal perspective and help us understand how Jenkins can be utilized in a variety of processes. We will discuss, on a high level, how Jenkins can work with other technologies, such as Chef and Drush, and go through the steps of setting up a simple Jenkins job. The methods discussed in this session have proven to be beneficial within my organization and and the organization has realized measurable benefits. With this knowledge we, as a community, can continue the conversation and help evolve the tools and techniques that will enable many to become more efficient in their processes as it has within NEWMEDIA.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Jun 2014 18:40:45 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">56 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/jenkins-101-drupal-perspective#comments</comments>
+</item>
+<item>
+ <title>Continuous Integration on Pantheon</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/continuous-integration-pantheon</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Setting up continuous integration for your Drupal project is easy when you&#039;re on Pantheon; no DevOps knowledge required!  Come to this session to learn just how easy it is. I&#039;ll be presenting a recipe we&#039;ve been using at Tableau to increase confidence in our deployments and scale up our team and the speed at which we work.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Takeaways&lt;/strong&gt;&lt;br /&gt;
+After this session, you&#039;ll walk away with...&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;An overview of CI, its benefits, and how Pantheon makes it easier&lt;/li&gt;
+&lt;li&gt;The requisite tools to get up and running quickly&lt;/li&gt;
+&lt;li&gt;A complete build configuration file; just add credentials!&lt;/li&gt;
+&lt;li&gt;Tips and gotchas for common BDD frameworks&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://decks.eric.pe/pantheon-ci&quot;&gt;View the presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/iamEAP-decks/pantheon-ci&quot;&gt;Fork the presentation on GItHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 23 Jun 2014 19:33:51 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">42 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/continuous-integration-pantheon#comments</comments>
+</item>
+</channel>
+</rss>

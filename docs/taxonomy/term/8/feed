@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2014drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Business and Open Source</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/8</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Scaling you: from a contractor to a shop (and beyond)</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/scaling-you-contractor-shop-and-beyond</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;In this presentation I’ll discuss the process of going from an independent contractor to a Drupal development shop, and specifically some of the problems I/we have gone through in building Zivtech from 1 to 20+ people over the past 6 years. We will examine some of the issues we’ve faced as we’ve grown, explore how we’ve dealt with them, and discuss where we see ourselves going as we grow. The goal of this session is to illustrate enough of the tough issues that you’ll face as you grow, take on bigger projects, hire additional people that you&#039;ll have a good sense of whether you should build a shop of your own.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Defining the “type” of shop you are.&lt;/li&gt;
+&lt;li&gt;Defining management and partnerships. Who is in charge? Who is responsible for What?&lt;/li&gt;
+&lt;li&gt;Managing cash flow, taxes, &amp;amp; benefits.&lt;/li&gt;
+&lt;li&gt;When and how to hire more people. Also, what positions should you hire for?&lt;/li&gt;
+&lt;li&gt;Sales, especially the difference in sales cycles and RFPs/proposals between small and large projects&lt;/li&gt;
+&lt;li&gt;Dealing with large enterprises&lt;/li&gt;
+&lt;li&gt;Office-based or remote?&lt;/li&gt;
+&lt;li&gt;Managing groups of developers.&lt;/li&gt;
+&lt;li&gt;Juggling more and longer term engagements and handling your sales pipeline effectively.&lt;/li&gt;
+&lt;li&gt;Balancing client work with business development (working on vs. working in the business).&lt;/li&gt;
+&lt;li&gt;Annuities, recurring revenue, &amp;amp; products. Using client work to fund product development&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The slides for an older version of the session can be found here: &lt;a href=&quot;https://www.zivtech.com/blog/contractor-to-shop&quot;&gt;https://www.zivtech.com/blog/contractor-to-shop&lt;/a&gt; . I will post newer slides closer to the camp date, which will include the updates around moving&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 11 Jul 2014 18:25:21 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">102 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/scaling-you-contractor-shop-and-beyond#comments</comments>
+</item>
+<item>
+ <title>Solution architecture: designing a strategy for project success</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/solution-architecture-designing-strategy-project-success</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Acquia Room (Class 103)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;A solution is only as good as the implementation strategy that guides it. All projects are guided by strategy, whether one developer is creating one out of desperation or a good process for solution architecture is in place. In this session, we&#039;ll learn:&lt;/p&gt;
+&lt;p&gt; * How to look at a project&#039;s needs, requirements, challenges, and possible innovations and *see* a solution.&lt;br /&gt;
+ * Communicating it to others.&lt;br /&gt;
+ * What &quot;just enough&quot; architecture means and what is too little. (None is too little.)&lt;br /&gt;
+ * What are the primary areas to consider for each and every project? (Yes, I&#039;m going to say testing.)&lt;br /&gt;
+ * The right balance of structure and flexibility that teams need while building solutions.&lt;br /&gt;
+ * How do you realign a project that is off the rails?&lt;br /&gt;
+ * The skills and tools that create better strategists and thus, better solutions.&lt;/p&gt;
+&lt;p&gt;This session is for everyone who must understand a problem and envision a solution. There will be war stories. There might be free candy.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 02 Jul 2014 20:12:02 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">97 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/solution-architecture-designing-strategy-project-success#comments</comments>
+</item>
+<item>
+ <title>Drupal for Nonprofits</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drupal-nonprofits</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Major nonprofits of all kinds are making the most of Drupal&#039;s contributed functionality and its flexibility as a development platform to build effective digital presences for publishing, engagement and media delivery. This session will look at several examples of what prominent organizations in the higher education, environmental policy, and public media spaces are using Drupal to accomplish.&lt;/p&gt;
+&lt;p&gt;Drupal evaluators from nonprofits and other large institutions will leave this session with a better understanding of what organizations are building with Drupal, including: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;engaging and responsive user experiences&lt;/li&gt;
+&lt;li&gt;powerful, but accessible publishing and management tools&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The session will also provide high level introduction to effective processes for content strategy, technical planning and agile development. Examples will include Drupal projects by The World Wildlife Fund, Colorado Public Radio, Stanford University and The World Resources Institute.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 15:10:16 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">83 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drupal-nonprofits#comments</comments>
+</item>
+<item>
+ <title>Data Analytics and the Day After</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/data-analytics-and-day-after</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Acquia Room (Class 103)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Web development never stops.  After a website is built, it&#039;s just the beginning of an evolving and iterative process towards improvement and optimization.  Drupal provides an excellent framework for rapid prototyping and development of web-based applications, but to make it to the next level, you need to learn.  So how do you effectively learn about your application and its users?  In this session, we&#039;ll explore data analytics and Drupal.  We&#039;ll examine a few topics, such as:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Creating data-driven websites&lt;/li&gt;
+&lt;li&gt;Basic A/B testing strategies&lt;/li&gt;
+&lt;li&gt;Extracting statistically meaningful information from tests&lt;/li&gt;
+&lt;li&gt;Tools for drawing inferences from data&lt;/li&gt;
+&lt;li&gt;Using Drush to facilitate a data workflow&lt;/li&gt;
+&lt;li&gt;Using the open-source R Project for Statistical Computing with Drupal&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;All in all, we&#039;ll discuss data, data workflows, and how Drupal can be just one instrument in your analytical toolkit.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Jun 2014 23:08:42 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">70 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/data-analytics-and-day-after#comments</comments>
+</item>
+<item>
+ <title>Open Source isn&#039;t Just Good, it&#039;s Good Business</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/open-source-isnt-just-good-its-good-business</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Acquia Room (Class 103)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;In the Drupal community we tend to talk about committing code to our public spaces (drupal.org, GitHub, etc.) in terms of &quot;contributing&quot; and &quot;contributions&quot;, and while much of it can be seen in that altruistic light, there are actually very strong business reasons for publishing your code and/or attempting to get your code changes committed to the open source project that you are working on.&lt;/p&gt;
+&lt;p&gt;Some of the business reasons for public publishing we&#039;ll explore will include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;The power of peer review. With enough eyes, all bugs are shallow, and with only a few eyes the stupidity knows no depths!&lt;/li&gt;
+&lt;li&gt;Fork you! The costs associated with &quot;hacking&quot; both Drupal core and contrib modules and base themes.&lt;/li&gt;
+&lt;li&gt;Take my code, please! Cost savings from committing patches.&lt;/li&gt;
+&lt;li&gt;Professionals publish or perish. Using open source contributions as marketing and lead generation.&lt;/li&gt;
+&lt;li&gt;Developers are people, seriously. And like most people, they like recognition. Contributing to an open source project, and having their code used by a broad community, can be inspiring and motivating in a way that client work never can. In short, open source contributions help with recruiting and retention.&lt;/li&gt;
+&lt;li&gt;Integrating contributions into your client engagements.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;This session will look at U.S. government and military documents that espouse the adoption of Drupal within the federal government and explore how &lt;a href=&quot;http://zivtech.com&quot;&gt;Zivtech&lt;/a&gt; has used open source contributions as a cornerstone in growing their businesses. You will hopefully walk away convinced that open source isn’t just good, it’s good business.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Jun 2014 22:32:56 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">68 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/open-source-isnt-just-good-its-good-business#comments</comments>
+</item>
+<item>
+ <title>Increasing the Business Value of Drupal Upgrades</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/increasing-business-value-drupal-upgrades</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Acquia Room (Class 103)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;h3&gt;&lt;strong&gt;Rather than just doing a Drupal-to-Drupal conversion, build in long-desired features and functionality to justify the cost of a Drupal conversion.&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;It is very difficult for site owners to justify any Drupal upgrade… especially when the site is larger, working adequately and the price tag for a D6-to-D7 upgrade isn’t small. When the end result of the upgrade is a site that looks exactly the same, it&#039;s just hard to get anyone excited - clients or developers.&lt;/p&gt;
+&lt;p&gt;Instead of a traditional conversion, we have bundled conversions with major enhancements:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Removing/enhancing existing functionality&lt;/li&gt;
+&lt;li&gt;Cleansing content types and normalizing fields&lt;/li&gt;
+&lt;li&gt;Migrating by content type, enhancing the conversion process and assuring relevance&lt;/li&gt;
+&lt;li&gt;&quot;Refreshing&quot;, i.e. rewriting, the theme, adding or enhancing responsiveness&lt;/li&gt;
+&lt;li&gt;Removing custom code in favor of new contributed modules&lt;/li&gt;
+&lt;li&gt;Moving to a more automated workflow that is closer to continuous integration&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The new site appears refreshed to the user community, it has new functionality and the cruff is gone - a deliverable worth paying for.&lt;/p&gt;
+&lt;p&gt;Rick will share a case study of an actual client. (Perhaps he can actually get a client representative to co-present.) Rick will come with the story and the technical specifics, but the real value of this session will be questions and sharing.&lt;/p&gt;
+&lt;hr /&gt;&lt;p&gt;Rick Nashleanas is a self-confessed &quot;odd duck&quot; in the Drupal community. With his experience at starting and growing technology companies, he looks at technology (and Drupal) with a very long view.&lt;/p&gt;
+&lt;p&gt;Rick founded and runs Monarch Digital in Colorado Springs and is exceptionally proud of his staff and the work that Monarch does in Drupal.&lt;/p&gt;
+&lt;p&gt;Rick has contributed many hours to the Drupal community through organizing DrupalCons, DrupalCamp Colorado and the Southern Colorado Drupal User Group.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 18 Jun 2014 20:06:23 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">29 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/increasing-business-value-drupal-upgrades#comments</comments>
+</item>
+<item>
+ <title>The Association Board: Hows and Whys of Involvement</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/association-board-hows-and-whys-involvement</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;We all think we know what the &lt;a href=&quot;http://association.drupal.org&quot;&gt;Association&lt;/a&gt; does.  It manages Drupal.org, it puts on events, it provides scholarships, and it supports infrastructure, right?  But what exactly IS the Association?  What happens behind the scenes?  How can you get involved and why is it important?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.dogstar.org&quot;&gt;Matthew Saunders&lt;/a&gt; wears many hats in the Drupal Community.  He is VP of Project Management for &lt;a href=&quot;http://www.atendesigngroup.com&quot;&gt;Aten Design Group&lt;/a&gt;. He was one of the organizers for &lt;a href=&quot;https://denver2012.drupal.org/&quot;&gt;Drupalcon Denver. &lt;/a&gt; He volunteers his time to &lt;a href=&quot;http://2014.drupalcampcolorado.org/&quot;&gt;Drupalcamp Colorado&lt;/a&gt;.  He is also a community elected member of the Drupal Association Board.&lt;/p&gt;
+&lt;p&gt;Different kinds of participation in the Drupal Project is essential for its survival, health, and growth.  We need developers, project managers, and evangelists.  We also need community board members.  Perhaps you’d like to be a candidate in the next election and be a steward of the Association.  Come find out why...&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;It is important to vote in our elections each year.&lt;/li&gt;
+&lt;li&gt;How can you meet the candidates before the election to find out who you should vote for.&lt;/li&gt;
+&lt;li&gt;How do you sort out if you are interested in being a candidate?&lt;/li&gt;
+&lt;li&gt;Find out what the election process is like.&lt;/li&gt;
+&lt;li&gt;How you can prepare for the election.&lt;/li&gt;
+&lt;li&gt;Find out how the Association is structured and how those structures provide stability to the Drupal Project as a whole.&lt;/li&gt;
+&lt;li&gt;What is involved in being a board member and what do the responsibilities typically look like.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Saunders has tons of non-profit experience on and off boards, with insights into what being a Drupal Association Board member means.  We need diverse candidates from all over the world.   Come to his session and learn about a different and critical way you can participate in the community that supports you whether it is simply voting or making that deeper dive as a potential board member.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 16 Jun 2014 23:51:30 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">28 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/association-board-hows-and-whys-involvement#comments</comments>
+</item>
+<item>
+ <title>Taming the Project, An Agile Approach</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/taming-project-agile-approach</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Managing projects can be confusing and chaotic.  Waterfall can help you define a project up front, but there is no such thing as a fixed scope.  This is especially true in the world of digital experiences.  Cowboy and Extreme programming scares clients and leads to miscommunication.&lt;/p&gt;
+&lt;p&gt;It &lt;strong&gt;does not&lt;/strong&gt; have to be this way.  Project management starts from initial client contracting right through to delivery of a product and support of that project.&lt;/p&gt;
+&lt;p&gt;Effective project managers have made a science of mitigating risk, thrilling clients, managing budgets, and keeping projects on time.  This session will draw on those arts.  We will talk about:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;How to embrace Agile&lt;/li&gt;
+&lt;li&gt;Sprints can minimize risk and maximize client satisfaction &lt;/li&gt;
+&lt;li&gt;Agile Scrum does not mean do not plan, it means plan smarter &lt;/li&gt;
+&lt;li&gt;How to make sprints work in a services company&lt;/li&gt;
+&lt;li&gt;How Epics, Stories, Tasks, and Points can lead to better results&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Project management requires a blend of techniques and tools to effectively shepherd projects from ideation to release. We&#039;ll explore and discuss different tools that can help make your project successful.&lt;/p&gt;
+&lt;p&gt;Lets get together this Drupalcon Amsterdam and explore how a services company can effectively use the Agile Scrum Methodology from Epics, to Stories, to tasks, timeboxes, and more.&lt;/p&gt;
+&lt;p&gt;_____________________________________&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Saunders, VP of Project Management at &lt;a href=&quot;http://aten.io&quot;&gt;Aten Design Group&lt;/a&gt;, has 18 years of project management experience. He writes at &lt;a href=&quot;http://www.dogstar.org&quot;&gt;Dogstar.org&lt;/a&gt; regularly - mostly on the business of open source and Drupal.  &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;He has spoken at many Drupalcons including Boston, Paris, Washington DC, Denver, and Munich.  He has also spoken at camps including presenting a Keynote for Drupalcamp Austin.  &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;During his career, he has helped numerous companies shift from traditional waterfall project methodologies to utilizing Agile and Scrum.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 16 Jun 2014 23:50:36 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">27 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/taming-project-agile-approach#comments</comments>
+</item>
+</channel>
+</rss>

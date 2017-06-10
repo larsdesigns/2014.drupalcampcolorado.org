@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2014drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Intermediate</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/12</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What is happening?!? Using Logstash to make sense of your environment.</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/what-happening-using-logstash-make-sense-your-environment</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Logs and statistics are key to helping us understand all of the ins and outs of our complex environments.  Tailing through logs is a great way to fall asleep, but far from an effective way to determine the state of a given system.  Logstash is a spectacular open source tool that in conjunction with a vast array of plug-ins, can be used to help you make sense of your environment. It enables you to extract the relevant data from your logs so that you can make sense of them. Based on this information, you can find performance bottlenecks, errors etc...all of which can be use to improve the quality and speed of a Drupal application.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 02 Jul 2014 22:28:38 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">98 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/what-happening-using-logstash-make-sense-your-environment#comments</comments>
+</item>
+<item>
+ <title>Solution architecture: designing a strategy for project success</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/solution-architecture-designing-strategy-project-success</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Acquia Room (Class 103)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;A solution is only as good as the implementation strategy that guides it. All projects are guided by strategy, whether one developer is creating one out of desperation or a good process for solution architecture is in place. In this session, we&#039;ll learn:&lt;/p&gt;
+&lt;p&gt; * How to look at a project&#039;s needs, requirements, challenges, and possible innovations and *see* a solution.&lt;br /&gt;
+ * Communicating it to others.&lt;br /&gt;
+ * What &quot;just enough&quot; architecture means and what is too little. (None is too little.)&lt;br /&gt;
+ * What are the primary areas to consider for each and every project? (Yes, I&#039;m going to say testing.)&lt;br /&gt;
+ * The right balance of structure and flexibility that teams need while building solutions.&lt;br /&gt;
+ * How do you realign a project that is off the rails?&lt;br /&gt;
+ * The skills and tools that create better strategists and thus, better solutions.&lt;/p&gt;
+&lt;p&gt;This session is for everyone who must understand a problem and envision a solution. There will be war stories. There might be free candy.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 02 Jul 2014 20:12:02 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">97 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/solution-architecture-designing-strategy-project-success#comments</comments>
+</item>
+<item>
+ <title>Integration Testing with KitchenCI &amp; Multiple Provisioners</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/integration-testing-kitchenci-multiple-provisioners</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Infrastructure as code is a staple of the DevOps movement. Often times, this leads to customized solutions that require additional development effort to manage. Testing code driven infrastructure has been difficult across organizations but there are tools that can help. In this session we will walk through concrete examples that illustrate how to test infrastructure using Rspec, Serverspec and KitchenCI. We will illustrate how this testing can tie directly into domain specific meta-data unique to your systems.&lt;/p&gt;
+&lt;p&gt;We will cover testing infrastructure in a way that is not dependent on your choice of provisioner. Utilizing these skills you can increase your effectiveness by focusing on localized integration testing up to remote node testing. Additionally, the separation of your tests from provisioning code gives you the opportunity to focus on describing the functionality of your systems. This paves the way to allow integration with multiple technologies (puppet, chef, ansible, salt, bash, smoke signals translated to binary) as long as they ultimately achieve the definition of the system.&lt;/p&gt;
+&lt;p&gt;We will use a Drupal 7 Puppet and Chef provisioned environment to work against.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 02 Jul 2014 15:35:21 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">96 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/integration-testing-kitchenci-multiple-provisioners#comments</comments>
+</item>
+<item>
+ <title>Catalyze your creativity</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/catalyze-your-creativity</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Can you have it all?&lt;strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In an ideal world we would be able to get the things we want immediately, in perfect condition AND at just the right price (preferably free). Unfortunately the real world of business doesn’t work that way. We have to make some compromises and choose the project parameters we value most, while sacrificing others.&lt;/p&gt;
+&lt;p&gt;Because of time and budgetary restrictions, clients are normally forced to pick from only two of the following three project goals - Fast, Good and cheap, while sacraficing the latter. It doesn&#039;t have to be this way anymore. Discover how open tools and resources are helping designers do the impossible and create amazing work despite their limitations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Make it work&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Open source design tools and resources can help designers break out of the &quot;pick two&quot; paradigm. Open resources enable designers to work more quickly with smaller budgets, but still deliver professional results.&lt;/p&gt;
+&lt;p&gt;In this session, we will discuss:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Brief history and introduction to copyright and licensing&lt;/li&gt;
+&lt;li&gt;Ways designers are using open licensing in their work and to empower others&lt;/li&gt;
+&lt;li&gt;How to find open tools and resources&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Join me and learn how sharing our collective creative resources can help us be better designers and create something that is greater than the sum of its parts.&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href=&quot;http://www.slideshare.net/dariusgarza/catalyze-yourcreativity&quot;&gt;http://www.slideshare.net/dariusgarza/catalyze-yourcreativity&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Design and Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 02 Jul 2014 00:38:12 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">94 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/catalyze-your-creativity#comments</comments>
+</item>
+<item>
+ <title>Git Rescued</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/git-rescued</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;As developers, we’ve all felt that pit in our stomach when we’ve realized that we just blew away hours of work. When you’re working on a large project, with multiple branches and multiple committers, trying to jump from branch and branch and integrate the most recent changes with your working tree can increase the incidence of disaster.&lt;/p&gt;
+&lt;p&gt;Luckily, git tries incredibly hard to help you dig yourself out of a hole. With commands like reflog, stash, rebase, etc, you can become a master at recovering lost work and managing your complex projects with ease.&lt;/p&gt;
+&lt;p&gt;In this session, we’ll cover some of the incredibly handy, but often overlooked git commands and syntaxes that can help you ‘git rescued’ and deftly manage projects with many mingling commits, while keeping your history tidy and readable for other members of your team.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 16:29:26 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">88 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/git-rescued#comments</comments>
+</item>
+<item>
+ <title>Building A Scalable Private VMware Based Drupal Cloud</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/building-scalable-private-vmware-based-drupal-cloud</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;In 2013, University of Colorado Boulder Housing &amp;amp; Dining Services deployed a new virtual cluster built upon Apache, &lt;a href=&quot;http://www.gluster.org/&quot;&gt;GlusterFS&lt;/a&gt;, &lt;a href=&quot;http://www.continuent.com/&quot;&gt;Continuent Tungsten&lt;/a&gt;, and &lt;a href=&quot;https://f5.com/&quot;&gt;F5 LTM&lt;/a&gt;. Deploying a private cloud can be a complex process, but we hope our experience will help simply your deployment. This presentation is primarily targeted to groups already using VMware vCenter on a local environment or hosted service such as Rackspace managed virtualization.&lt;/p&gt;
+&lt;p&gt;During the presentation we will discuss:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Implementation considerations &amp;amp; strategies&lt;/li&gt;
+&lt;li&gt;Performance optimization&lt;/li&gt;
+&lt;li&gt;Problems encountered during deployment (and ways to avoid them)&lt;/li&gt;
+&lt;li&gt;VMware backup configuration considerations&lt;/li&gt;
+&lt;li&gt;F5 LTM configuration and iRules (we&#039;ll post the source) with SNI support&lt;/li&gt;
+&lt;li&gt;Collaboration needed between VMware systems administrators and Drupal cluster devops&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 14:53:14 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">81 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/building-scalable-private-vmware-based-drupal-cloud#comments</comments>
+</item>
+<item>
+ <title>The SCSSy Wild West: Partial Organization for a Complete Site</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/scssy-wild-west-partial-organization-complete-site</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Aten Room (Class 101)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;&quot;Where the hell is this style?&quot; --- Any frontend-er anywhere. &lt;/p&gt;
+&lt;p&gt;What defines a good partial layout? How should I align my partials to the site? Will the structure of my partials make sense to a future developer onboarding onto the project? In a month, after being buried in other projects, can I quickly navigate my partials? Should I go back to one single stylesheet and use CTRL+F to find everything? Should I use the color module instead and roll a bartik subtheme? &lt;/p&gt;
+&lt;p&gt;These are questions that are commonly asked when dealing with partials. This talk looks to introduce a partial layout strategy for all scale of Drupal and non-drupal projects using a drupalistic hybrid of SMCSS, BEM and OOCSS . The talk will address the common pain points of SCSS partials and how to mitigate them.  As well as, just show some fun mixins to help make life a little easier.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Design and Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 04:42:19 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">80 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/scssy-wild-west-partial-organization-complete-site#comments</comments>
+</item>
+<item>
+ <title>Proposal for a Standard Dev Process</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/proposal-standard-dev-process</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;How can a community/organization do Large Scale Drupal if there is no standard process in place for developing websites?&lt;/p&gt;
+&lt;p&gt;This session is proposing a community standard in the ways of development process from local to staging, from staging to QA and from QA to production.  &lt;/p&gt;
+&lt;p&gt;The talk will briefly address the topics of Drupal install profiles, drush make, migrate, update hooks and automation tools and scripts.  All of which when combined can help the building, deploying and running of Drupal site.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 04:32:14 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">79 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/proposal-standard-dev-process#comments</comments>
+</item>
+<item>
+ <title>CXual Healing: Content Creators are people, too!</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/cxual-healing-content-creators-are-people-too</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;It is an unfortunate reality that Content Creators are often the last group considered when setting priorities for a site build. There are a number of reasons for this, such as politically-weighted stakeholder selection or fixed project budgets. Although Content Creators may not be the &quot;target&quot; user of a site, the reality is that they are the heaviest users of many sites, interacting with the software we build day in and day out. In this presentation, I will be sharing some of the approaches Bluespark uses to improve the lives of content creators and streamline workflows.&lt;/p&gt;
+&lt;p&gt;This session is largely focused towards site builders and developers, but should be of interest to anyone involved in the decision-making process when creating sites. We&#039;ll begin with a survey of useful modules and site-building practices. We&#039;ll then move on to &quot;quick-win&quot; custom code snippets and techniques we&#039;ve used to improve our products. Finally, we&#039;ll show highly custom content administration solutions we&#039;ve developed and discuss implementation challenges and solutions. You will leave this session with several new techniques to add to your arsenal and a renewed focus on serving the needs of your site&#039;s heaviest users.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 04:13:19 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">78 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/cxual-healing-content-creators-are-people-too#comments</comments>
+</item>
+<item>
+ <title>Intro to Frontend Ops</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/intro-frontend-ops</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Aten Room (Class 101)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Frontend development is becoming more critical as web development matures. As we grow our need for backend-like workflow tools increase. During our day-to-day site development in Drupal we all have to do repetitive tasks. Let&#039;s take the pain out of the process and focus on our actual work by learning how to utilize modern frontend automation tools.&lt;/p&gt;
+&lt;p&gt;In this talk, I plan on discussing various tools that help frontend developers stay consistent as they develop their drupal themes. I will focus primarily on gruntjs and bower, but will also briefly discuss Gulp.js, PhantomJS, PageSpeed, and SlimerJS. I’ll show some small (pre-recorded) demos of the tools in action, and discuss how much you and your site will benefit from the use of these tools in your day-to-day work lives.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Design and Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 03:54:09 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">76 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/intro-frontend-ops#comments</comments>
+</item>
+</channel>
+</rss>

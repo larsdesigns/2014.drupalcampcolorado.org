@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2014drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - free</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/33</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>DrupalCamp Colorado</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/content/drupalcamp-colorado</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;We&#039;ve been super busy getting the camp site up and running.  After 8 months of working on details, lining up contracts for space, working together on the website, sprinting at DrupalCon Austin, the time is nearly at hand.  Make sure that you &lt;a href=&quot;/node/add/session&quot;&gt;submit a session&lt;/a&gt; for consideration.  While Large Scale Drupal IS our theme this year, all sessions are welcome!  We need a wide variety of content for all kinds of Drupalers!  &lt;/p&gt;
+&lt;p&gt;Michael Meyers of Acquia&#039;s Large Scale Drupal department in the Office of the CTO at Acquia will be talking with us about the place of Drupal in Enterprise.  &lt;/p&gt;
+&lt;p&gt;AND, this year DCCO is FREE!  We do request that you make a &lt;a href=&quot;/register&quot;&gt;donation&lt;/a&gt;, even if it is a small one.  Any registration contributions beyond our budget target will be donated to 3 charities: &lt;a href=&quot;http://adainitiative.org/&quot;&gt;The Ada Initiative&lt;/a&gt;, &lt;a href=&quot;http://code.org/&quot;&gt;Code.org&lt;/a&gt;, and &lt;a href=&quot;https://www.eff.org/&quot;&gt;Electronic Frontier Foundation&lt;/a&gt;. Thank you for generously supporting the camp and these organizations.  If you contribute $30, you&#039;ll get a T-Shirt.  If you contribute $50, well then you are just simply AWESOME!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div &gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/28&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;keynote&lt;/a&gt;&lt;/div&gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;donations&lt;/a&gt;&lt;/div&gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/33&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;free&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 06 Jun 2014 15:57:14 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">19 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/content/drupalcamp-colorado#comments</comments>
+</item>
+</channel>
+</rss>

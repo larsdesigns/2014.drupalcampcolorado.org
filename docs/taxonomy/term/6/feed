@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2014drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Development and Site Building</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/6</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>There’s a Module for That</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/there%E2%80%99s-module</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;“There’s a module for that” is a common Drupal refrain.  And it is very true.  As of March 2014, there were 26,486 projects on drupal.org, of those 8,705 have a Drupal 7 release.&lt;/p&gt;
+&lt;p&gt;The question often becomes how do I know what module(s) I should use?&lt;/p&gt;
+&lt;p&gt;Not all modules are created equal.  Pick the wrong module and your site might not work at all.  Pick the right one and you save countless hours of development time.  Plus contributed modules have the community helping find issues and solutions.&lt;/p&gt;
+&lt;p&gt;This session will offer a framework for finding and evaluating potential modules for your site.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 05 Jul 2014 13:35:32 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">100 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/there%E2%80%99s-module#comments</comments>
+</item>
+<item>
+ <title>Git Rescued</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/git-rescued</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;As developers, we’ve all felt that pit in our stomach when we’ve realized that we just blew away hours of work. When you’re working on a large project, with multiple branches and multiple committers, trying to jump from branch and branch and integrate the most recent changes with your working tree can increase the incidence of disaster.&lt;/p&gt;
+&lt;p&gt;Luckily, git tries incredibly hard to help you dig yourself out of a hole. With commands like reflog, stash, rebase, etc, you can become a master at recovering lost work and managing your complex projects with ease.&lt;/p&gt;
+&lt;p&gt;In this session, we’ll cover some of the incredibly handy, but often overlooked git commands and syntaxes that can help you ‘git rescued’ and deftly manage projects with many mingling commits, while keeping your history tidy and readable for other members of your team.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 16:29:26 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">88 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/git-rescued#comments</comments>
+</item>
+<item>
+ <title>Productivity tools for developing with PHP and Drupal</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/productivity-tools-developing-php-and-drupal</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Add some tools to your toolbelt for improving productivity and increasing happiness.&lt;/p&gt;
+&lt;p&gt;Examples include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;IDEs like PhpStorm&lt;/li&gt;
+&lt;li&gt;cli-tools like drush and boris&lt;/li&gt;
+&lt;li&gt;Debugging tools like xdebug&lt;/li&gt;
+&lt;li&gt;Performance and benchmarking tools like xhprof&lt;/li&gt;
+&lt;li&gt;Code analysis tools coder and PHP CodeSniffer&lt;/li&gt;
+&lt;li&gt;HTTP API testing with postman and http-console&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 15:06:22 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">82 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/productivity-tools-developing-php-and-drupal#comments</comments>
+</item>
+<item>
+ <title>Proposal for a Standard Dev Process</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/proposal-standard-dev-process</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;How can a community/organization do Large Scale Drupal if there is no standard process in place for developing websites?&lt;/p&gt;
+&lt;p&gt;This session is proposing a community standard in the ways of development process from local to staging, from staging to QA and from QA to production.  &lt;/p&gt;
+&lt;p&gt;The talk will briefly address the topics of Drupal install profiles, drush make, migrate, update hooks and automation tools and scripts.  All of which when combined can help the building, deploying and running of Drupal site.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 04:32:14 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">79 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/proposal-standard-dev-process#comments</comments>
+</item>
+<item>
+ <title>CXual Healing: Content Creators are people, too!</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/cxual-healing-content-creators-are-people-too</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;It is an unfortunate reality that Content Creators are often the last group considered when setting priorities for a site build. There are a number of reasons for this, such as politically-weighted stakeholder selection or fixed project budgets. Although Content Creators may not be the &quot;target&quot; user of a site, the reality is that they are the heaviest users of many sites, interacting with the software we build day in and day out. In this presentation, I will be sharing some of the approaches Bluespark uses to improve the lives of content creators and streamline workflows.&lt;/p&gt;
+&lt;p&gt;This session is largely focused towards site builders and developers, but should be of interest to anyone involved in the decision-making process when creating sites. We&#039;ll begin with a survey of useful modules and site-building practices. We&#039;ll then move on to &quot;quick-win&quot; custom code snippets and techniques we&#039;ve used to improve our products. Finally, we&#039;ll show highly custom content administration solutions we&#039;ve developed and discuss implementation challenges and solutions. You will leave this session with several new techniques to add to your arsenal and a renewed focus on serving the needs of your site&#039;s heaviest users.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 04:13:19 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">78 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/cxual-healing-content-creators-are-people-too#comments</comments>
+</item>
+<item>
+ <title>Approaching Information Architecture in Drupal</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/approaching-information-architecture-drupal</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;As the web continues to evolve, our content needs to be increasingly portable. Prioritizing content in our workflow has become a critical piece in future-proofing ours and our client’s messages against a myriad of ever changing devices and technologies. We’ll discuss some of the tools and process additions, as well as talk about what we gain by adding one more step in our process.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 04:12:25 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">77 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/approaching-information-architecture-drupal#comments</comments>
+</item>
+<item>
+ <title>Beginning module development</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/beginning-module-development</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a session for PHP developers new to Drupal, and for site builders getting into development.&lt;/p&gt;
+&lt;p&gt;We&#039;re going to cover the basics: the .info and .module files, Drupal&#039;s developer tools, hooks, hooks, and more hooks. We&#039;ll talk about the Form API, and Drupal&#039;s database abstraction layer. We&#039;re going to pack 10 pounds of session in 5 pounds of time.&lt;/p&gt;
+&lt;p&gt;Though I have no evidence to support this claim, I believe 9 in 10 Coloradans agree that I crushed Drupal Camp Colorado 2013 with my beginning module development session. With this totally new session, I aim to sway that last hold out.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 03:14:46 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">75 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/beginning-module-development#comments</comments>
+</item>
+<item>
+ <title>Drush: Drupal administration without the load times</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drush-drupal-administration-without-load-times</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;It&#039;s becoming easier and easier to create and edit content in Drupal through the web interface. Administration, on the other hand, still seems to take forever.&lt;/p&gt;
+&lt;p&gt;If you want to clear your drupal cache, you must click 2 or 3 times and wait for the page to load each time. If you want to put the site in maintenance mode... wait, where was that checkbox again?&lt;/p&gt;
+&lt;p&gt;With Drush, these kind of tasks become quick and easy to do from the command line. No waiting while the whole page loads, just open a command prompt and with a few key strokes, you are done.&lt;/p&gt;
+&lt;p&gt;This talk is geared for beginner to intermediate users who either have never used drush, are just starting to use drush, or would like to see what cool things drush can do for them other than just clearing Drupal&#039;s cache.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Drush basics
+&lt;ul&gt;&lt;li&gt;Getting help&lt;/li&gt;
+&lt;li&gt;Deeper dive into topics&lt;/li&gt;
+&lt;li&gt;Basic uses&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Module management
+&lt;ul&gt;&lt;li&gt;Downloading and installing modules&lt;/li&gt;
+&lt;li&gt;Updating modules as well as Drupal core&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Other interesting management tasks
+&lt;ul&gt;&lt;li&gt;Setting variables&lt;/li&gt;
+&lt;li&gt;Connecting to the database&lt;/li&gt;
+&lt;li&gt;Installing a site&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Drush aliases
+&lt;ul&gt;&lt;li&gt;Local aliases&lt;/li&gt;
+&lt;li&gt;Remote aliases&lt;/li&gt;
+&lt;li&gt;Extending aliases&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Drush make&lt;/li&gt;
+&lt;li&gt;and more...&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 02:59:41 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">74 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drush-drupal-administration-without-load-times#comments</comments>
+</item>
+<item>
+ <title>JavaScript: The Drupal Way</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/javascript-drupal-way</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Acquia Room (Class 103)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drupal has its own, special way of working with JavaScript—and it&#039;s often misunderstood by both front- and back-end Drupal developers. Those misunderstandings lead to all manner of bugs, unintentional side effects, and scripts that are difficult to maintain. Worse still, there isn&#039;t much good documentation out there describing how to write good JavaScript for Drupal.&lt;/p&gt;
+&lt;p&gt;In this session, we&#039;ll cover the reasons why Drupal handles JavaScript differently from other systems and how to write clean JavaScript the way Drupal wants you to. Topics will include IIFEs, behaviors and attachments, jQuery Once, and more.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Intermediate&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Jun 2014 23:22:34 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">71 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/javascript-drupal-way#comments</comments>
+</item>
+<item>
+ <title>Drupal’s PHP Component Future</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drupal%E2%80%99s-php-component-future</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;As the PHP renaissance continues to change how developers work with PHP, Drupal has made significant strides toward adopting PHP’s new best practices in both code and interoperability. New groups focussed on the interoperability of disparate PHP projects have begun to get traction producing such standards as PSR-0 and PSR-4 while others work to model a reusable request/response layer. The interoperability awareness of PHP projects and frameworks has never been higher, and projects working to adopt and contribute to that interoperable future have an opportunity to contribute to the future standards of PHP in an unprecedented way.&lt;/p&gt;
+&lt;p&gt;Drupal carries with it a significant existing install base, and componentization could lead to use in non-Drupal installs. Formally componentizing Drupal’s existing code base further and making individual components available to the non-Drupal world will spread our influence far and wide. In this talk I’ll elaborate on:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Building PHP Components&lt;/li&gt;
+&lt;li&gt;Componentizing Drupal&lt;/li&gt;
+&lt;li&gt;The future of modules&lt;/li&gt;
+&lt;li&gt;Component Interoperability&lt;/li&gt;
+&lt;li&gt;Stack PHP &amp;amp; PHP FIG&lt;/li&gt;
+&lt;li&gt;Expanding Drupal’s reach into the 80% of the web that is run by PHP&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Jun 2014 22:27:50 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">67 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drupal%E2%80%99s-php-component-future#comments</comments>
+</item>
+</channel>
+</rss>

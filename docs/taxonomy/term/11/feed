@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2014drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Beginner</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/11</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>ChatOps Makes Awesome Teams</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/chatops-makes-awesome-teams</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Culture is the most important ingredient in the DevOps movement, and we believe that ChatOps is the best way to build an awesome culture. Making your operations tools work with your chat room enables open communication and provides wonderful learning opportunities for all.&lt;/p&gt;
+&lt;p&gt;We will review practical ways to chat-enable your IT operations, including deployment, monitoring, log analysis, automation, on-call rotations, and real-time troubleshooting. While there are plenty of commercial solutions available in this space, we will focus on Drupal-friendly, open-source approaches.&lt;/p&gt;
+&lt;p&gt;This session will include technical tips and tricks for ChatOps tooling and automation, but will also include some high-level ideas about (and lessons learned from) the softer aspects of an open team chat room.  We will share our experiences with privacy issues, information overload, incident handling, and conducting chat-based blameless postmortems.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Attendees will leave this talk with a clear approach to improving their DevOps culture.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 08 Jul 2014 15:54:46 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">101 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/chatops-makes-awesome-teams#comments</comments>
+</item>
+<item>
+ <title>There’s a Module for That</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/there%E2%80%99s-module</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;“There’s a module for that” is a common Drupal refrain.  And it is very true.  As of March 2014, there were 26,486 projects on drupal.org, of those 8,705 have a Drupal 7 release.&lt;/p&gt;
+&lt;p&gt;The question often becomes how do I know what module(s) I should use?&lt;/p&gt;
+&lt;p&gt;Not all modules are created equal.  Pick the wrong module and your site might not work at all.  Pick the right one and you save countless hours of development time.  Plus contributed modules have the community helping find issues and solutions.&lt;/p&gt;
+&lt;p&gt;This session will offer a framework for finding and evaluating potential modules for your site.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 05 Jul 2014 13:35:32 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">100 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/there%E2%80%99s-module#comments</comments>
+</item>
+<item>
+ <title>DevOps 101 - Culture and Tools</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/devops-101-culture-and-tools</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Working together as a collaborative team can produce better results, and break down barriers and finger pointing.  But what does that really mean, and how do you make that happen in practice?  &lt;/p&gt;
+&lt;p&gt;DevOps is the grand unification of philosophy and tools around how to manage Development (designers, themers, programmers, application analysts, application owners, project managers) and IT Operations  (system admins, network admins, security, data center, storage, database admin) in a tightly-integrated way.  This session will provide a fun-filled introduction to common aspects of DevOps culture and technology, complete with real-world examples of how it works and steps other organizations have taken to adopt DevOps methodology.&lt;/p&gt;
+&lt;p&gt;Specifically, we&amp;#039;ll talk about:&lt;/p&gt;
+&lt;p&gt;  + How DevOps is different from traditional methodologies&lt;br /&gt;
+  + What do commonly used DevOps tools like Puppet, Chef, Ansible, Salt, Jenkins, Git, Graphite, Icinga, and chat provide and how do they work together&lt;br /&gt;
+  + How DevOps fits in with a Drupal environment, including approaches to multi-environment promotion and operations&lt;br /&gt;
+  + The culture of DevOps.  How to encourage cross-functional teamwork and avoid common cultural pitfalls&lt;br /&gt;
+  + How to get a DevOps movement started in your organization&lt;/p&gt;
+&lt;p&gt;Join us for this entertaining and practical look into the DevOps world!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 03 Jul 2014 13:31:00 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">99 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/devops-101-culture-and-tools#comments</comments>
+</item>
+<item>
+ <title>Drupal for Nonprofits</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drupal-nonprofits</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Major nonprofits of all kinds are making the most of Drupal&#039;s contributed functionality and its flexibility as a development platform to build effective digital presences for publishing, engagement and media delivery. This session will look at several examples of what prominent organizations in the higher education, environmental policy, and public media spaces are using Drupal to accomplish.&lt;/p&gt;
+&lt;p&gt;Drupal evaluators from nonprofits and other large institutions will leave this session with a better understanding of what organizations are building with Drupal, including: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;engaging and responsive user experiences&lt;/li&gt;
+&lt;li&gt;powerful, but accessible publishing and management tools&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The session will also provide high level introduction to effective processes for content strategy, technical planning and agile development. Examples will include Drupal projects by The World Wildlife Fund, Colorado Public Radio, Stanford University and The World Resources Institute.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 15:10:16 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">83 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drupal-nonprofits#comments</comments>
+</item>
+<item>
+ <title>Productivity tools for developing with PHP and Drupal</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/productivity-tools-developing-php-and-drupal</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Add some tools to your toolbelt for improving productivity and increasing happiness.&lt;/p&gt;
+&lt;p&gt;Examples include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;IDEs like PhpStorm&lt;/li&gt;
+&lt;li&gt;cli-tools like drush and boris&lt;/li&gt;
+&lt;li&gt;Debugging tools like xdebug&lt;/li&gt;
+&lt;li&gt;Performance and benchmarking tools like xhprof&lt;/li&gt;
+&lt;li&gt;Code analysis tools coder and PHP CodeSniffer&lt;/li&gt;
+&lt;li&gt;HTTP API testing with postman and http-console&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 15:06:22 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">82 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/productivity-tools-developing-php-and-drupal#comments</comments>
+</item>
+<item>
+ <title>Approaching Information Architecture in Drupal</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/approaching-information-architecture-drupal</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;As the web continues to evolve, our content needs to be increasingly portable. Prioritizing content in our workflow has become a critical piece in future-proofing ours and our client’s messages against a myriad of ever changing devices and technologies. We’ll discuss some of the tools and process additions, as well as talk about what we gain by adding one more step in our process.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 04:12:25 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">77 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/approaching-information-architecture-drupal#comments</comments>
+</item>
+<item>
+ <title>Beginning module development</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/beginning-module-development</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is a session for PHP developers new to Drupal, and for site builders getting into development.&lt;/p&gt;
+&lt;p&gt;We&#039;re going to cover the basics: the .info and .module files, Drupal&#039;s developer tools, hooks, hooks, and more hooks. We&#039;ll talk about the Form API, and Drupal&#039;s database abstraction layer. We&#039;re going to pack 10 pounds of session in 5 pounds of time.&lt;/p&gt;
+&lt;p&gt;Though I have no evidence to support this claim, I believe 9 in 10 Coloradans agree that I crushed Drupal Camp Colorado 2013 with my beginning module development session. With this totally new session, I aim to sway that last hold out.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 03:14:46 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">75 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/beginning-module-development#comments</comments>
+</item>
+<item>
+ <title>Drush: Drupal administration without the load times</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drush-drupal-administration-without-load-times</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;It&#039;s becoming easier and easier to create and edit content in Drupal through the web interface. Administration, on the other hand, still seems to take forever.&lt;/p&gt;
+&lt;p&gt;If you want to clear your drupal cache, you must click 2 or 3 times and wait for the page to load each time. If you want to put the site in maintenance mode... wait, where was that checkbox again?&lt;/p&gt;
+&lt;p&gt;With Drush, these kind of tasks become quick and easy to do from the command line. No waiting while the whole page loads, just open a command prompt and with a few key strokes, you are done.&lt;/p&gt;
+&lt;p&gt;This talk is geared for beginner to intermediate users who either have never used drush, are just starting to use drush, or would like to see what cool things drush can do for them other than just clearing Drupal&#039;s cache.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overview:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Drush basics
+&lt;ul&gt;&lt;li&gt;Getting help&lt;/li&gt;
+&lt;li&gt;Deeper dive into topics&lt;/li&gt;
+&lt;li&gt;Basic uses&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Module management
+&lt;ul&gt;&lt;li&gt;Downloading and installing modules&lt;/li&gt;
+&lt;li&gt;Updating modules as well as Drupal core&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Other interesting management tasks
+&lt;ul&gt;&lt;li&gt;Setting variables&lt;/li&gt;
+&lt;li&gt;Connecting to the database&lt;/li&gt;
+&lt;li&gt;Installing a site&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Drush aliases
+&lt;ul&gt;&lt;li&gt;Local aliases&lt;/li&gt;
+&lt;li&gt;Remote aliases&lt;/li&gt;
+&lt;li&gt;Extending aliases&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Drush make&lt;/li&gt;
+&lt;li&gt;and more...&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 02:59:41 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">74 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drush-drupal-administration-without-load-times#comments</comments>
+</item>
+<item>
+ <title>Data Analytics and the Day After</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/data-analytics-and-day-after</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Acquia Room (Class 103)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Web development never stops.  After a website is built, it&#039;s just the beginning of an evolving and iterative process towards improvement and optimization.  Drupal provides an excellent framework for rapid prototyping and development of web-based applications, but to make it to the next level, you need to learn.  So how do you effectively learn about your application and its users?  In this session, we&#039;ll explore data analytics and Drupal.  We&#039;ll examine a few topics, such as:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Creating data-driven websites&lt;/li&gt;
+&lt;li&gt;Basic A/B testing strategies&lt;/li&gt;
+&lt;li&gt;Extracting statistically meaningful information from tests&lt;/li&gt;
+&lt;li&gt;Tools for drawing inferences from data&lt;/li&gt;
+&lt;li&gt;Using Drush to facilitate a data workflow&lt;/li&gt;
+&lt;li&gt;Using the open-source R Project for Statistical Computing with Drupal&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;All in all, we&#039;ll discuss data, data workflows, and how Drupal can be just one instrument in your analytical toolkit.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Jun 2014 23:08:42 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">70 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/data-analytics-and-day-after#comments</comments>
+</item>
+<item>
+ <title>Portable development environments</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/portable-development-environments</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;See how you can do all this within 30 minutes:&lt;br /&gt;
+1) create Drupal 7 &amp;amp; 8 dev environments on your computer&lt;br /&gt;
+2) work online or offline on your dev environments&lt;br /&gt;
+3) backup snapshots on the cloud with one click&lt;br /&gt;
+4) recreate/restore sites on other computers&lt;br /&gt;
+5) publish the site(s) on any hosting company to share with others&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Jun 2014 22:55:08 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">69 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/portable-development-environments#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2014drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Advanced</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/13</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Git-Flow &amp; disposable testing sites</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/git-flow-disposable-testing-sites</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;This session will demonstrate how easily you can create Drupal 7 &amp;amp; 8 testing sites from any git-flow branch... even feature branches. &lt;/p&gt;
+&lt;p&gt;This is particularly useful for testing where you need to create a site for each feature branch, see if your fixes are working, share/show the features working to your clients, and then merge your changes into Development branch.&lt;/p&gt;
+&lt;p&gt;We&#039;ll also demonstrate how these sites can be automatically updated when particular git-flow branches are updated.&lt;/p&gt;
+&lt;p&gt;This session will assume that you know git-flow and you&#039;re working with multiple developers.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 01 Jul 2014 16:13:40 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">87 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/git-flow-disposable-testing-sites#comments</comments>
+</item>
+<item>
+ <title>&quot;Roll your own&quot; AWS cluster</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/roll-your-own-aws-cluster</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Roll your own Drupal 7 &amp;amp; 8 clusters on AWS.&lt;/p&gt;
+&lt;p&gt;Save thousands of dollars on hosting by running your own clusters on the same infrastructure used by Pantheon, Acquia and RightScale.&lt;/p&gt;
+&lt;p&gt;Learn how to deploy your own Drupal 7 &amp;amp; 8 sites to high-performance, multi-server, scalable, fault-tolerant clusters on AWS.  We&#039;ll demonstrate how the cluster automatically grows and shrinks based on site load.   &lt;/p&gt;
+&lt;p&gt;We&#039;ll see how easily you can fine-tune your clusters for your specific needs using AWS tools.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Jun 2014 23:26:24 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">72 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/roll-your-own-aws-cluster#comments</comments>
+</item>
+<item>
+ <title>Drupal 8 Plugin Deep Dive</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drupal-8-plugin-deep-dive</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drupal 8 has introduced a number of new (to Drupalists) technologies, but embedded in this mix are a handful of Drupal-centric innovations. Amongst the first of these to be introduced to Drupal 8 was the Plugin system. The Plugin system is a far reaching PHP Component that has largely replaced the old hook_info/alter pattern within Drupal and can be used outside of Drupal as well.&lt;/p&gt;
+&lt;p&gt;The Drupal 8 plugin system provides a new API within Drupal for discovery, instantiation and invocation of classes beyond what traditional hooks have provided in past version of Drupal core. The plugin system provides the underlying structure to allow classes to sit in place of what has often been multiple disconnected hooks. Many subsystems in Drupal have been converted to plugins including blocks, conditions, field widgets and more. We&#039;ll discuss many of these at some level and build examples of what appropriate plugin system usage looks like, what tools already exist, how to leverage them, and where to get more information on building your own plugin types.&lt;/p&gt;
+&lt;p&gt;Usage and deconstruction of the new DefaultPluginManager class will be a big part of this talk as we dig into the facilities Drupal is provided out of the box, and begin to build our own example plugin type.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 30 Jun 2014 22:21:00 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">66 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drupal-8-plugin-deep-dive#comments</comments>
+</item>
+<item>
+ <title>Attacking Drupal</title>
+ <link>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/attacking-drupal</link>
+ <description>&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drupal is a very popular content management system that has been widely adopted by government agencies, major businesses, social networks, and more -- underscoring why understanding how Drupal works and properly securing these applications is of the utmost importance. This talk focuses on the penetration tester&#039;s perspective of Drupal and dives into streamlining the assessment and remediation of commonly observed application and configuration flaws by way of custom exploit code and security checklists, all of which are open-source and can be downloaded and implemented following the presentation. Following this session, the learner will understand common security misconfigurations associated with the CMS. Be able to identify key weaknesses in Drupal web applications. Be able to exploit key weaknesses in Drupal web applications, utilizing open-source tools and scripts developed by the presenter. Learn to automate multiple Drupal web application attacks. Be able to defend against key weaknesses in Drupal web applications, utilizing a security checklist that the presenter has prepared.&lt;/p&gt;
+&lt;p&gt;This session is complementary to the &lt;a href=&quot;https://2014.drupalcampcolorado.org/session/lets-break-drupal-security-hackers-perspective&quot;&gt;Let&#039;s break in to Drupal: Security, from a hacker&#039;s perspective&lt;/a&gt; session by none other than &lt;a href=&quot;https://2014.drupalcampcolorado.org/users/greggles&quot;&gt;Greggles&lt;/a&gt; - both cover different areas.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Advanced&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 24 Jun 2014 22:13:22 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">45 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/attacking-drupal#comments</comments>
+</item>
+</channel>
+</rss>

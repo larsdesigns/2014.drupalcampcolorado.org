@@ -1,0 +1,45 @@
+HTTrack3.49-1 launched on Fri, 09 Jun 2017 05:08:23 at https://dev-2014drupalcampcoloradoorg.pantheonsite.io
+(httrack https://dev-2014drupalcampcoloradoorg.pantheonsite.io -w -O . -%v -s0 -c1 -%e0 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:17:13	Error: 	"Not Found" (404) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/has_js=1; path=/ (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/sites/default/files/js/js_WkOMkSyjg9rxsesVK2mUAVX_dhZTWbIE6jpIzuL-ygM.js)
+05:17:13	Error: 	"Not Found" (404) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/POST (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/sites/default/files/googleanalytics/analytics.js?ora1lr)
+05:17:13	Error: 	"Not Found" (404) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/gtm.js (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/sites/default/files/googleanalytics/analytics.js?ora1lr)
+05:17:13	Error: 	"Not Found" (404) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/plugins/ (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/sites/default/files/googleanalytics/analytics.js?ora1lr)
+05:17:54	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/beginning-module-development (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:22:07	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/attacking-drupal (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:23:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/javascript-drupal-way (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:24:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/bliss-and-enlightment-automated-testing-behat (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:26:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/footless-drupal (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:27:12	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drupal-8-module-development-just-basics (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:28:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/productivity-tools-developing-php-and-drupal (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:29:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/git-rescued (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:32:46	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/beginning-module-development (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:35:18	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/taming-project-agile-approach (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/8)
+05:36:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/attacking-drupal (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:37:34	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/javascript-drupal-way (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:38:39	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/bliss-and-enlightment-automated-testing-behat (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:39:46	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/footless-drupal (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:40:52	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drupal-8-module-development-just-basics (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:41:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/productivity-tools-developing-php-and-drupal (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:43:04	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/git-rescued (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:44:11	Error: 	"Forbidden" (403) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/node/add/session (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/content/drupalcamp-colorado)
+05:44:18	Error: 	"Not Found" (404) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/content/all-user-profiles (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/content/august-2-2014)
+05:44:26	Error: 	"Internal Server Error" (500) after 2 retries at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/beginning-module-development (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:44:54	Warning: 	Retry after error 500 (Internal Server Error) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/taming-project-agile-approach (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/8)
+05:46:00	Error: 	"Internal Server Error" (500) after 2 retries at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/attacking-drupal (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:46:00	Error: 	"Internal Server Error" (500) after 2 retries at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/javascript-drupal-way (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:46:00	Error: 	"Internal Server Error" (500) after 2 retries at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/bliss-and-enlightment-automated-testing-behat (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:46:00	Error: 	"Internal Server Error" (500) after 2 retries at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/footless-drupal (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:46:00	Error: 	"Internal Server Error" (500) after 2 retries at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/drupal-8-module-development-just-basics (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:46:00	Error: 	"Internal Server Error" (500) after 2 retries at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/productivity-tools-developing-php-and-drupal (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:46:00	Error: 	"Internal Server Error" (500) after 2 retries at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/git-rescued (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session-schedule)
+05:46:00	Error: 	"Not Found" (404) at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/node/all-user-profiles (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/node/104)
+05:46:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://dev-2014drupalcampcoloradoorg.pantheonsite.io/session/taming-project-agile-approach (from https://dev-2014drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/8)
+
+HTTrack Website Copier/3.49-1 mirror complete in 37 minutes 41 seconds : 582 links scanned, 548 files written (8004806 bytes overall) [4220320 bytes received at 1866 bytes/sec], 6678080 bytes transferred using HTTP compression in 485 files, ratio 32%, 24.2 requests per connection
+(16 errors, 18 warnings, 0 messages)
